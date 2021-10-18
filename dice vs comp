@@ -1,0 +1,7 @@
+os.urandom()
+rzut=randrange(1,6)
+odp=input('Guess...')
+if(odp==rzut)
+print("Succes!")
+else()
+print("failure...")
