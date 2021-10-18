@@ -1,0 +1,4 @@
+masa=float(input('Podaj mase:'))
+wzrost=float(input('Podaj wzrost:'))
+bmi = masa/wzrost**2
+print('BMI=',bmi)
