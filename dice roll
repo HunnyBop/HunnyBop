@@ -1,0 +1,9 @@
+os.urandom()
+rzut1=randrange(1,6)
+rzut2=randrange(1,6)
+rzut3=randrange(1,6)
+suma=rzut1+rzut2+rzut3
+print("Roll 1=",rzut1)
+print("Roll 2=",rzut2)
+print("Roll 3=",rzut3)
+print("sum=",suma)
